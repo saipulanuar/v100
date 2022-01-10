@@ -22,15 +22,15 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/botstylee/botstylee",
+  "homepage": "https://github.com/saipulanuar/v100",
   "author": {
-    "name": "Benniismail"
+    "name": "KingOfBear"
   },
   "repository": {
-    "url": "https://github.com/botstylee/botstylee.git"
+    "url": "https://github.com/saipulanuar/v100.git"
   },
   "bugs": {
-    "url": "https://github.com/botstylee/botstylee/issues"
+    "url": "https://github.com/saipulanuar/v100/issues"
   },
   "license": "GPL-3.0",
   "dependencies": {

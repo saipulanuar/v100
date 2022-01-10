@@ -188,6 +188,7 @@ let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isR
 │ 
 ├ anon
 ├ antilink
+├ antiwame
 ├ antispam
 ├ antitroli
 ├ antiphilip

@@ -33,7 +33,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'benniismaelapikey',
+  'https://api.xteam.xyz': 'KingOfBear',
   'https://server-api-rey.herokuapp.com': 'apirey',
   'https://pencarikode.xyz': 'pais',
   'https://neoxr-api.herokuapp.com': 'yntkts',
